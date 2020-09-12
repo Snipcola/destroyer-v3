@@ -113,4 +113,25 @@ With amount
 
 ![IMG](https://i.imgur.com/NXJdF13.png)
 
+### DelRoles
+
+The delroles command deletes all (or specified amount of) roles.
+
+Format:
+```markdown
+delroles [Amount (Optional)]
+```
+
+Without amount
+
+![IMG](https://i.imgur.com/dRVR8JS.png)
+
+![IMG](https://i.imgur.com/FHLXB3R.png)
+
+With amount
+
+![IMG](https://i.imgur.com/SbGWXF2.png)
+
+![IMG](https://i.imgur.com/MOOAT6Q.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
