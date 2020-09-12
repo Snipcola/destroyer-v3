@@ -102,11 +102,13 @@ delchannels [Amount (Optional)]
 ```
 
 Without amount
+
 ![IMG](https://i.imgur.com/UAnboiT.png)
 
 ![IMG](https://i.imgur.com/rqAy7yo.png)
 
 With amount
+
 ![IMG](https://i.imgur.com/BtBZtRC.png)
 
 ![IMG](https://i.imgur.com/NXJdF13.png)
