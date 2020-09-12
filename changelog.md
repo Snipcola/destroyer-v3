@@ -7,6 +7,7 @@ You can join our discord server](https://discord.gg/f5zAhbT) if you still need a
 Commands
 - addallroles (Gives everyone specified role(s))
 - addroles (Gives every mentioned user(s) the specified role(s))
+
 Other
 - Bug fixes
 
