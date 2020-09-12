@@ -30,12 +30,4 @@ Destroyer V3 offers a variety of commands.
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Snipcola/destroyer-v3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [commands in depth](https://snipcola.github.io/destroyer-v3/commands).
