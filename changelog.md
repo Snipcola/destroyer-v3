@@ -1,6 +1,6 @@
 ## Destroyer V3 Changelog
 
-You can join our discord server](https://discord.gg/f5zAhbT) if you still need assistance.
+You can join our [discord server](https://discord.gg/f5zAhbT) if you still need assistance.
 
 ### Destroyer V3 Ver 1.0.2 (Dev Edition - Not released)
 
