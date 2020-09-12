@@ -155,4 +155,26 @@ With name
 
 ![IMG](https://i.imgur.com/z4LHF4h.png)
 
+
+### CreateRoles
+
+The createroles command creates how many roles you specified & with the name you specified.
+
+Format:
+```markdown
+createroles [Amount] [Name (Optional)]
+```
+
+Without name
+
+![IMG](https://i.imgur.com/DsZXfGR.png)
+
+![IMG](https://i.imgur.com/7Ko0GhW.png)
+
+With name
+
+![IMG](https://i.imgur.com/DTEApT8.png)
+
+![IMG](https://i.imgur.com/IXHOgHY.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
