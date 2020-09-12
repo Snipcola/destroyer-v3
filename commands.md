@@ -185,6 +185,9 @@ The lockchannels command overwrites every role in every channel to false.
 
 ![IMG](https://i.imgur.com/zz4yHSV.png)
 
-
+### All Pages
+- [home](https://snipcola.github.io/destroyer-v3/)
+- [commands](https://snipcola.github.io/destroyer-v3/commands)
+- [changelog](https://snipcola.github.io/destroyer-v3/changelog)
 
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
