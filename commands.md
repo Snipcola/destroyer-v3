@@ -177,4 +177,14 @@ With name
 
 ![IMG](https://i.imgur.com/IXHOgHY.png)
 
+### LockChannels
+
+The lockchannels command overwrites every role in every channel to false.
+
+![IMG](https://i.imgur.com/LcVRzdM.png)
+
+![IMG](https://i.imgur.com/zz4yHSV.png)
+
+
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
