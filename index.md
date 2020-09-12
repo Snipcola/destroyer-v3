@@ -26,8 +26,8 @@ Destroyer V3 offers a variety of commands.
 17. purge [AMOUNT] (Deletes messages)
 18. muteall (Mutes all members)
 19. mute [USER(S)] (Mutes mentioned users)
-
-- Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
 ```
 
 For more details see [commands in depth](https://snipcola.github.io/destroyer-v3/commands).
+
+- Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
