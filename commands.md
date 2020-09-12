@@ -42,4 +42,17 @@ kick [User(s)]
 
 ![IMG](https://i.imgur.com/Vk6rHog.png)
 
+### Ban
+
+The ban command bans all specified users.
+
+Format:
+```markdown
+ban [User(s)]
+```
+
+![IMG](https://i.imgur.com/prk4giy.png)
+
+![IMG](https://i.imgur.com/1sh4KtZ.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
