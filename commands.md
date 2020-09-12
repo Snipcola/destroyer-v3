@@ -51,9 +51,9 @@ Format:
 ban [User(s)]
 ```
 
-![IMG](https://i.imgur.com/HCUidoS.png)
+![IMG](https://i.imgur.com/prk4giy.png)
 
-![IMG](https://i.imgur.com/1sh4KtZ.png)
+![IMG](https://i.imgur.com/HCUidoS.png)
 
 ### KickAll
 
