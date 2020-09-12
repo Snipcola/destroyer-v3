@@ -198,6 +198,19 @@ addallroles [Id(s)]
 
 ![IMG](https://i.imgur.com/lOWJmqp.png)
 
+### AddRoles
+
+The addroles command adds specified roles to every mentioned user.
+
+Format:
+```markdown
+addroles [Id(s)] [User(s)]
+```
+
+![IMG](https://i.imgur.com/18h8hFd.png)
+
+![IMG](https://i.imgur.com/DQQfzKp.png)
+
 ### All Pages
 - [home](https://snipcola.github.io/destroyer-v3/)
 - [commands](https://snipcola.github.io/destroyer-v3/commands)
