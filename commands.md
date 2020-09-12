@@ -92,4 +92,23 @@ unban [Id(s)]
 
 ![IMG](https://i.imgur.com/uo5Lw41.png)
 
+### DelChannels
+
+The delchannels command deletes all (or specified amount of) channels.
+
+Format:
+```markdown
+delchannels [Amount (Optional)]
+```
+
+Without amount
+![IMG](https://i.imgur.com/UAnboiT.png)
+
+![IMG](https://i.imgur.com/rqAy7yo.png)
+
+With amount
+![IMG](https://i.imgur.com/BtBZtRC.png)
+
+![IMG](https://i.imgur.com/NXJdF13.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
