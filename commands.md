@@ -1,6 +1,6 @@
-## Welcome to Destroyer V3 Docs
+## Welcome to Destroyer V3 Commands In Depth
 
-You can use the [join our discord server](https://discord.gg/f5zAhbT) if you still need assistance.
+You can [join our discord server](https://discord.gg/f5zAhbT) if you still need assistance.
 
 ### Commands
 
