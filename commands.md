@@ -1,4 +1,4 @@
-## Welcome to Destroyer V3 Commands In Depth
+## Destroyer V3 Commands In Depth
 
 You can [join our discord server](https://discord.gg/f5zAhbT) if you still need assistance.
 
