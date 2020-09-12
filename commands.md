@@ -51,9 +51,9 @@ Format:
 ban [User(s)]
 ```
 
-![IMG](https://i.imgur.com/prk4giy.png)
+![IMG](https://i.imgur.com/yOt2SfT.png)
 
-![IMG](https://i.imgur.com/HCUidoS.png)
+![IMG](https://i.imgur.com/IcOttfH.png)
 
 ### KickAll
 
@@ -78,5 +78,18 @@ The unbanall command unbans all guild (server) banned members.
 ![IMG](https://i.imgur.com/TgQ28Hr.png)
 
 ![IMG](https://i.imgur.com/Qn34uFG.png)
+
+### Unban
+
+The unban command unbans all specified users.
+
+Format:
+```markdown
+unban [Id(s)]
+```
+
+![IMG](https://i.imgur.com/0TApSZW.png)
+
+![IMG](https://i.imgur.com/uo5Lw41.png)
 
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
