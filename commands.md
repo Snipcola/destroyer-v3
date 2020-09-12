@@ -12,6 +12,6 @@ The destroy command does the following
 - Deletes all channels/categories
 ```
 
-![IMG](https://i.kym-cdn.com/entries/icons/original/000/016/540/hgh08Pez.jpeg)
+![IMG](https://i.imgur.com/tVM8M15.png)
 
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
