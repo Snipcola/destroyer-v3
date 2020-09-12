@@ -2,6 +2,12 @@
 
 You can use the [join our discord server](https://discord.gg/f5zAhbT) if you still need assistance.
 
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
