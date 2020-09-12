@@ -179,11 +179,24 @@ With name
 
 ### LockChannels
 
-The lockchannels command overwrites every role in every channel to false.
+The lockchannels command overwrites every guild (server) role in every guild (server) channel to false.
 
 ![IMG](https://i.imgur.com/LcVRzdM.png)
 
 ![IMG](https://i.imgur.com/zz4yHSV.png)
+
+### AddAllRoles
+
+The addallroles command adds specified roles to every guild (server) member.
+
+Format:
+```markdown
+addallroles [Id(s)]
+```
+
+![IMG](https://i.imgur.com/0ZZx4cW.png)
+
+![IMG](https://i.imgur.com/lOWJmqp.png)
 
 ### All Pages
 - [home](https://snipcola.github.io/destroyer-v3/)
