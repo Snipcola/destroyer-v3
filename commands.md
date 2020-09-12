@@ -29,4 +29,17 @@ dmall [MESSAGE]
 
 ![IMG](https://i.imgur.com/hQPle1d.png)
 
+### Kick
+
+The kick command kicks all specified users.
+
+Format:
+```markdown
+kick [User(s)]
+```
+
+![IMG](https://i.imgur.com/Lw3QcSw.png)
+
+![IMG](https://i.imgur.com/Vk6rHog.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
