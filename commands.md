@@ -71,4 +71,12 @@ The banall command bans all guild (server) members.
 
 ![IMG](https://i.imgur.com/JMYgnQT.png)
 
+### UnbanAll
+
+The unbanall command unbans all guild (server) banned members.
+
+![IMG](https://i.imgur.com/TgQ28Hr.png)
+
+![IMG](https://i.imgur.com/Qn34uFG.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
