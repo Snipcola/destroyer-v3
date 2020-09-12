@@ -1,4 +1,4 @@
-## Welcome to Destroyer V3 Docs
+## Destroyer V3 Docs
 
 You can [join our discord server](https://discord.gg/f5zAhbT) if you still need assistance.
 
