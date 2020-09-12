@@ -55,4 +55,20 @@ ban [User(s)]
 
 ![IMG](https://i.imgur.com/1sh4KtZ.png)
 
+### KickAll
+
+The kickall command kicks all guild (server) members.
+
+![IMG](https://i.imgur.com/ztM8TpL.png)
+
+![IMG](https://i.imgur.com/gR7F59L.png)
+
+### BanAll
+
+The banall command bans all guild (server) members.
+
+![IMG](https://i.imgur.com/CvZv5io.png)
+
+![IMG](https://i.imgur.com/JMYgnQT.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
