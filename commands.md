@@ -232,6 +232,19 @@ With amount
 
 ![IMG](https://i.imgur.com/EtbIQiy.png)
 
+### Purge
+
+The purge command deletes specified amount of messages.
+
+Format:
+```markdown
+purge [Amount]
+```
+
+![IMG](https://i.imgur.com/flfCqDV.png)
+
+![IMG](https://i.imgur.com/v4oVuDe.png)
+
 ### All Pages
 - [home](https://snipcola.github.io/destroyer-v3/)
 - [commands](https://snipcola.github.io/destroyer-v3/commands)
