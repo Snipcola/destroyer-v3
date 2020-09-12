@@ -245,6 +245,14 @@ purge [Amount]
 
 ![IMG](https://i.imgur.com/v4oVuDe.png)
 
+### MuteAll
+
+The muteall command overwrites every user in every channel and declines send message & add reactions perm.
+
+![IMG](https://i.imgur.com/6lc4lzj.png)
+
+![IMG](https://i.imgur.com/JtsIoC1.png)
+
 ### All Pages
 - [home](https://snipcola.github.io/destroyer-v3/)
 - [commands](https://snipcola.github.io/destroyer-v3/commands)
