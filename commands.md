@@ -134,4 +134,25 @@ With amount
 
 ![IMG](https://i.imgur.com/MOOAT6Q.png)
 
+### CreateChannels
+
+The createchannels command creates how many channels you specified & with the name you specified.
+
+Format:
+```markdown
+createchannels [Amount] [Name (Optional)]
+```
+
+Without name
+
+![IMG](https://i.imgur.com/eDeqfH8.png)
+
+![IMG](https://i.imgur.com/C76PCXK.png)
+
+With name
+
+![IMG](https://i.imgur.com/YvklM8G.png)
+
+![IMG](https://i.imgur.com/z4LHF4h.png)
+
 - Updated as of Destroyer V3 Ver 1.0.2 (Dev Edition)
