@@ -7,9 +7,9 @@ You can [join our discord server](https://discord.gg/f5zAhbT) if you still need 
 The destroy command does the following
 
 ```markdown
-- Bans all members
-- Deletes all roles
-- Deletes all channels/categories
+- Bans all guild (server) members
+- Deletes all guild (server) roles
+- Deletes all guild (server) channels/categories
 ```
 
 ![IMG](https://i.imgur.com/tVM8M15.png)
@@ -18,7 +18,7 @@ The destroy command does the following
 
 ### DmAll
 
-The dmall command DMs all members the specified message.
+The dmall command DMs all guild (server) members the specified message.
 
 Format:
 ```markdown
@@ -31,7 +31,7 @@ dmall [MESSAGE]
 
 ### Kick
 
-The kick command kicks all specified users.
+The kick command kicks all mentioned users.
 
 Format:
 ```markdown
@@ -44,7 +44,7 @@ kick [User(s)]
 
 ### Ban
 
-The ban command bans all specified users.
+The ban command bans all mentioned users.
 
 Format:
 ```markdown
@@ -81,7 +81,7 @@ The unbanall command unbans all guild (server) banned members.
 
 ### Unban
 
-The unban command unbans all specified users.
+The unban command unbans all specified ids.
 
 Format:
 ```markdown
