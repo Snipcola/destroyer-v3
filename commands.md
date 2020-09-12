@@ -14,7 +14,7 @@ The destroy command does the following
 
 ![IMG](https://i.imgur.com/tVM8M15.png)
 
-![IMG](https://i.imgur.com/5dKPkOB.png)
+![IMG](https://i.imgur.com/QbJHqWT.png)
 
 ### DmAll
 
