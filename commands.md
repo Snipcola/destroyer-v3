@@ -211,6 +211,27 @@ addroles [Id(s)] [User(s)]
 
 ![IMG](https://i.imgur.com/DQQfzKp.png)
 
+### MassPing
+
+The massping command attempts to mention every guild (server) member in their DMs.
+
+Format:
+```markdown
+massping [Amount (Optional)]
+```
+
+Without amount
+
+![IMG](https://i.imgur.com/1fhAsiE.png)
+
+![IMG](https://i.imgur.com/ZKOEpe8.png)
+
+With amount
+
+![IMG](https://i.imgur.com/UfvtPLT.png)
+
+![IMG](https://i.imgur.com/EtbIQiy.png)
+
 ### All Pages
 - [home](https://snipcola.github.io/destroyer-v3/)
 - [commands](https://snipcola.github.io/destroyer-v3/commands)
